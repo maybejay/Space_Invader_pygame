@@ -171,3 +171,6 @@ while running:
     player(playerX, playerY)
     show_score(textX, textY)
     pygame.display.update()
+
+
+#added this comment
